@@ -1,29 +1,8 @@
+![](https://komarev.com/ghpvc/?username=Micky373)
+
 <img src="https://img.shields.io/badge/Michael%20Tamirie-is%20a Remote worker-greenyellow" />
 
 <h1>Hello, I'm Michael Tamirie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
-
-<br>
-
-**Hey there you are the**
-
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/Micky373/count.svg" /> 
-</p>
-
-**viewer Thanks!!!**
-
-<br />
-
-## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
-
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
-
-<br />
-<br />
 
 ## About me
 
@@ -47,6 +26,17 @@ const getToKnowMicky = {
 }
 
  ```
+
+## My Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
+
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
+
+<br />
+<br />
 
 ## My Certifications and Badges :arrow_down:
 
