@@ -31,19 +31,19 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 ``` JavaScript
 const getToKnowMicky = {
-    fullName: "Michael Tamirie Andualem";
-    origin: "Ethiopia";
-    jobStatus: "Student at Microverse";
-    maritalStatus: "Single";
-    hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"];
-    techLanguages:["Python","Css","JavaScript","HTML"];
-    age: 24;
-    isWorkingNow: false;
+    fullName: "Michael Tamirie Andualem",
+    origin: "Ethiopia",
+    jobStatus: "Student at Microverse",
+    maritalStatus: "Single",
+    hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
+    techLanguages:["Python","Css","JavaScript","HTML"],
+    age: 24,
+    isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "Electromechanical Engineering"
-        isCompleted: true;
-    };
-    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"];
+        isCompleted: true,
+    },
+    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
 }
 
  ```
