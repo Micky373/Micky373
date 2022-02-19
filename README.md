@@ -61,28 +61,23 @@ const getToKnowMicky = {
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <span></span><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
 <br/>
+
 <div style="display:flex; gap:2rem">
-
-<a href="https://micky373.github.io/My_portfolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=My_portfolio&theme=buefy" />
-</a>
-
-<a href="https://micky373.github.io/Awesome_Books_ES6/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Awesome_Books_ES6&theme=buefy" />
-</a>
-
+    <a href="https://micky373.github.io/My_portfolio/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=My_portfolio&theme=buefy" />
+    </a>
+    <a href="https://micky373.github.io/Awesome_Books_ES6/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Awesome_Books_ES6&theme=buefy" />
+    </a>
 </div>
 
 <div style="display:flex; gap:2rem">
-
-<a href="https://micky373.github.io/Capstone_project_html_css_js/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Capstone_project_html_css_js&theme=buefy" />
-</a>
-
-<a href="https://micky373.github.io/To_DO_List/dist/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=To_DO_List&theme=buefy" />
-</a>
-
+    <a href="https://micky373.github.io/Capstone_project_html_css_js/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Capstone_project_html_css_js&theme=buefy" />
+    </a>
+    <a href="https://micky373.github.io/To_DO_List/dist/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=To_DO_List&theme=buefy" />
+    </a>
 </div>
 
 <h3 align="center"> You can reach me at 📫 </h3>
