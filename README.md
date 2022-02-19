@@ -31,7 +31,6 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 ``` JavaScript
 const Micky = {
-
     firstName: "Michael";
     LastName: "Tamirie";
     origin: "Ethiopia";
