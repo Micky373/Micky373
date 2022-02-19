@@ -53,6 +53,11 @@ const getToKnowMicky = {
 
 <br/>
 
+## GitHub Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/Micky373)
+____
+
 <h3 align="center"> You can reach me at 📫 </h3>
 <br />
 <p align="center">
@@ -60,12 +65,6 @@ const getToKnowMicky = {
 <a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </p>
-
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/Micky373)
-____
-
 **Thanks for Stopping by and visiting!! 😊**
 
 <p align="center">
