@@ -31,7 +31,7 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 ``` JavaScript
 const getToKnowMicky = {
-    fullName: "Michael Tamirie Andualem"
+    fullName: "Michael Tamirie Andualem";
     origin: "Ethiopia";
     jobStatus: "Student at Microverse";
     maritalStatus: "Single";
