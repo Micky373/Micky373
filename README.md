@@ -12,8 +12,6 @@
 
 **viewer Thanks!!!**
 
-I'm a full stack web development student, Electro Mechanical engineering graduate from Ethiopia. I am every day willing to work and collaborate with new creative tasks.
-<br />
 <br />
 
 ## My Stats
@@ -44,7 +42,8 @@ const getToKnowMicky = {
         isCompleted: true,
     },
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
-    codingEnviroment: "Github"
+    codingEnviroment: "Github",
+    nowLearning: ["Wireless networking at CISCO","Full stack web developement at Microverse","Machine learning and robotics at Coursera"]
 }
 
  ```
