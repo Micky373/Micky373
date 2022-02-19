@@ -68,9 +68,11 @@ const getToKnowMicky = {
 <a href="https://micky373.github.io/Awesome_Books_ES6/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Awesome_Books_ES6&theme=buefy" />
 </a>
+<br/>
 <a href="https://micky373.github.io/Capstone_project_html_css_js/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=Capstone_project_html_css_js&theme=buefy" />
 </a>
+
 <a href="https://micky373.github.io/To_DO_List/dist/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micky373&repo=To_DO_List&theme=buefy" />
 </a>
