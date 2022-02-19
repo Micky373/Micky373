@@ -21,13 +21,32 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 ## About me
 
-- 💼 **Electromechanical Engineer** from [AASTU](http://www.aastu.edu.et/)
+<!-- - 💼 **Electromechanical Engineer** from [AASTU](http://www.aastu.edu.et/)
 
 - 📈 Built github-readme-stats
 
 - ❤️ I love writing writing codes, solving different coding problems, collaborating with fellow coders to solve challenges
 
-- 💬 Feel free to ask or leave a comment here [here](https://github.com/Micky373/Micky373/issues)
+- 💬 Feel free to ask or leave a comment here [here](https://github.com/Micky373/Micky373/issues) -->
+
+``` JavaScript
+const Micky = {
+
+    firstName: "Michael";
+    LastName: "Tamirie";
+    origin: "Ethiopia";
+    jobStatus: "Student at Microverse";
+    maritalStatus: "Single";
+    hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"];
+    techLanguages:["Python","Css","JavaScript","HTML"]
+    age: 24;
+    isWorkingNow: false;
+    educationLevel: {
+        bachlorsDegree: "Electromechanical Engineering"
+        isCompleted: true;
+    }
+
+ ```  
 
 <br />
 <br />
