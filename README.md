@@ -44,7 +44,7 @@ const getToKnowMicky = {
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
 - [Cisco Introduction to Network badge](https://www.credly.com/badges/769bfab6-93d3-410d-a042-514bf7de5a6c/public_url)
 - [Cisco Switching Routing and Wireless Essentials badge ](https://www.credly.com/badges/9e941554-fab1-4910-8229-ab1ee8543d96/public_url)
-- [Coursera Python for everybody specialization certificate ](coursera.org/verify/specialization/SANRMEWUPYGH) 
+- [Coursera Python for everybody specialization certificate ](https://coursera.org/verify/specialization/SANRMEWUPYGH) 
 - [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
 
 ## Languages and Tools:  
