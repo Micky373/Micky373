@@ -5,8 +5,8 @@
 <br>
 
 I'm a full stack web development student, Electro Mechanical engineering graduate from Ethiopia. I am every day willing to work and collaborate with new creative tasks.
-<br>
-<br>
+<br />
+<br />
 
 ## My Stats
 
@@ -15,6 +15,9 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
 
 ![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
+
+<br />
+<br />
 
 ## About me
 
@@ -26,7 +29,8 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 - 💬 Feel free to ask or leave a comment here [here](https://github.com/Micky373/Micky373/issues)
 
-
+<br />
+<br />
 
 ## Languages and Tools:  
 
