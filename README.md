@@ -4,6 +4,11 @@
 
 <br>
 
+<p align="left"> 
+  Hey there you are the <br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" /> th viewer Thanks!!!
+</p>
+
 I'm a full stack web development student, Electro Mechanical engineering graduate from Ethiopia. I am every day willing to work and collaborate with new creative tasks.
 <br />
 <br />
@@ -21,14 +26,6 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 
 ## About me
 
-<!-- - 💼 **Electromechanical Engineer** from [AASTU](http://www.aastu.edu.et/)
-
-- 📈 Built github-readme-stats
-
-- ❤️ I love writing writing codes, solving different coding problems, collaborating with fellow coders to solve challenges
-
-- 💬 Feel free to ask or leave a comment here [here](https://github.com/Micky373/Micky373/issues) -->
-
 ``` JavaScript
 const getToKnowMicky = {
     fullName: "Michael Tamirie Andualem",
@@ -44,6 +41,7 @@ const getToKnowMicky = {
         isCompleted: true,
     },
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
+    codingEnviroment: "Github"
 }
 
  ```
