@@ -62,4 +62,20 @@ const getToKnowMicky = {
 
 <br/>
 
+<h3 align="center"> You can reach me at 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/michael-tamirie-288a331ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
+
+____
+
 **Thanks for Stopping by and visiting!! 😊**
+
+<p align="center">
+
+⭐️ [Michael_Tamirie](https://github.com/Micky373)
+
+</p>
