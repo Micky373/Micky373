@@ -4,10 +4,13 @@
 
 <br>
 
+**Hey there you are the**
+
 <p align="left"> 
-  Hey there you are the <br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" /> th viewer Thanks!!!
+  <img src="https://profile-counter.glitch.me/Micky373/count.svg" /> 
 </p>
+
+**viewer Thanks!!!**
 
 I'm a full stack web development student, Electro Mechanical engineering graduate from Ethiopia. I am every day willing to work and collaborate with new creative tasks.
 <br />
