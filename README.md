@@ -61,6 +61,9 @@ const getToKnowMicky = {
 
 </p>
 
+## GitHub Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/Micky373)
 ____
 
 **Thanks for Stopping by and visiting!! 😊**
