@@ -30,23 +30,23 @@ I'm a full stack web development student, Electro Mechanical engineering graduat
 - 💬 Feel free to ask or leave a comment here [here](https://github.com/Micky373/Micky373/issues) -->
 
 ``` JavaScript
-const Micky = {
-    firstName: "Michael";
-    LastName: "Tamirie";
+const getToKnowMicky = {
+    fullName: "Michael Tamirie Andualem"
     origin: "Ethiopia";
     jobStatus: "Student at Microverse";
     maritalStatus: "Single";
     hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"];
-    techLanguages:["Python","Css","JavaScript","HTML"]
+    techLanguages:["Python","Css","JavaScript","HTML"];
     age: 24;
     isWorkingNow: false;
     educationLevel: {
         bachlorsDegree: "Electromechanical Engineering"
         isCompleted: true;
-    }
+    };
+    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"];
+}
 
- ```  
-
+ ```
 <br />
 <br />
 
