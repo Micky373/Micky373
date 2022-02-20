@@ -39,6 +39,12 @@ const getToKnowMicky = {
 <br />
 <br />
 
+## GitHub Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/Micky373)
+
+[![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Micky373&theme=dracula)](https://github.com/Micky373/github-readme-activity-graph)
+
 ## My Certifications and Badges :arrow_down:
 
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
@@ -53,9 +59,6 @@ const getToKnowMicky = {
 
 <br/>
 
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/Micky373)
 ____
 
 <h3 align="center"> You can reach me at 📫 </h3>
