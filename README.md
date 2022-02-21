@@ -74,7 +74,7 @@ ____
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-tamirie-288a331ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<a href = "mailto:michaeltamirie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </p>
 
 **Thanks for Stopping by and visiting!! 😊**
