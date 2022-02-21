@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Micky373)
 
-<img src="https://img.shields.io/badge/Michael%20Tamirie-is%20Available for Remote Work-greenyellow" />
+<img src="https://img.shields.io/badge/Michael%20Tamirie-is%20Available for a Remote Work-greenyellow" />
 
 <h1>Hello, I'm Michael Tamirie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
 
