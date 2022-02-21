@@ -13,7 +13,7 @@
 ``` JavaScript
 const getToKnowMicky = {
     fullName: "Michael Tamirie Andualem",
-    origin: "Ethiopia :flag-et:",
+    origin: "Ethiopia 🇪🇹",
     jobStatus: "Student at Microverse",
     maritalStatus: "Single",
     hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
