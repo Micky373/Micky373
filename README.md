@@ -8,7 +8,9 @@
 
 <br>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" width = "100px" height = "100px"/></p>
+<p align = "center"><img src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" width = "400px" height = "400px"/></p>
+
+<br>
 
 ``` JavaScript
 const getToKnowMicky = {
@@ -31,7 +33,6 @@ const getToKnowMicky = {
 }
 
  ```
- <br>
  
  ## My Stats
 
