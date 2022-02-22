@@ -4,8 +4,6 @@
 
 <h1>Hello, I'm Michael Tamirie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
 
-## About me
-
 <br>
 
 <p align = "center"><img src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" width = "400px" height = "400px"/></p>
