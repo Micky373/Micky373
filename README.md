@@ -76,8 +76,8 @@ ____
 <a href="https://www.linkedin.com/in/michael-tamirie-288a331ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mailto:michaeltamirie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-<a href="https://github.com/Micky373">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+<p align = "center"><a href="https://github.com/Micky373">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a></p>
 </p>
 
 **Thanks for Stopping by and visiting!! 😊**
