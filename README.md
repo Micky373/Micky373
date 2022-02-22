@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" width = "200px" height = "200px"/></p>
 
 ``` JavaScript
 const getToKnowMicky = {
