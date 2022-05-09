@@ -14,7 +14,7 @@
 const getToKnowMicky = {
     fullName: "Michael Tamirie Andualem",
     origin: "Ethiopia 🇪🇹",
-    jobStatus: "Student at Microverse",
+    jobStatus: ["Student at Microverse","Student at 10 Acadamy"]
     maritalStatus: "Single",
     hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
     techLanguages:["Python","Css","JavaScript","HTML"],
@@ -26,7 +26,7 @@ const getToKnowMicky = {
     },
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Wireless networking at CISCO","Full stack web developement at Microverse","Machine learning and robotics at Coursera"],
+    nowLearning: ["Full stack web developement at Microverse","Machine learning ,Artificial intelligence (AI) and WEB3 at 10Acadamy"],
     lookingForNewOpportunities: true    
 }
 
