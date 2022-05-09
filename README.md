@@ -14,7 +14,7 @@
 const getToKnowMicky = {
     fullName: "Michael Tamirie Andualem",
     origin: "Ethiopia 🇪🇹",
-    jobStatus: ["Student at Microverse","Student at 10 Acadamy"]
+    jobStatus: ["Student at Microverse","Student at 10 Acadamy"],
     maritalStatus: "Single",
     hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
     techLanguages:["Python","Css","JavaScript","HTML"],
