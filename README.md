@@ -102,6 +102,7 @@ const getToKnowMicky = {
 <img src = "https://img.shields.io/badge/mlflow-019733?style=flat&logo=mlflow&logoColor=white">
 <img src = "https://img.shields.io/badge/dvc-1572B6?style=flat&logo=dvc&logoColor=white">
 <img src = "https://img.shields.io/badge/docker-F1502F?style=flat&logo=docker&logoColor=white">
+<img src = "https://img.shields.io/badge/medium-696969?style=flat&logo=medium&logoColor=white">
 </p>
 <br/>
 
