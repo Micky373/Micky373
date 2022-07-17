@@ -43,6 +43,9 @@ const getToKnowMicky = {
 <br />
 <br />
 
+![Micky's trophy](https://github-profile-trophy.vercel.app/?username=Micky373&theme=nord&column=7&margin-w=10&margin-h=15)
+![Micky's blog](https://github-read-medium.vercel.app/latest?username=michaeltamirie&limit=6&theme=nord)
+
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/Micky373)
