@@ -95,8 +95,14 @@ const getToKnowMicky = {
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
 <img src = "https://img.shields.io/badge/Cisco-0052CC?style=flat&logo=Cisco&logoColor=white">
+<img src = "https://img.shields.io/badge/Pandas-CC342D?style=flat&logo=Pandas&logoColor=white">
+<img src = "https://img.shields.io/badge/Numpy-0052CC?style=flat&logo=Numpy&logoColor=white">
+<img src = "https://img.shields.io/badge/Keras-1679A7?style=flat&logo=Keras&logoColor=white">
+<img src = "https://img.shields.io/badge/Tensorflow-CC342D?style=flat&logo=Tensorflow&logoColor=white">
+<img src = "https://img.shields.io/badge/mlflow-019733?style=flat&logo=mlflow&logoColor=white">
+<img src = "https://img.shields.io/badge/dvc-1572B6?style=flat&logo=dvc&logoColor=white">
+<img src = "https://img.shields.io/badge/docker-F1502F?style=flat&logo=docker&logoColor=white">
 </p>
-
 <br/>
 
 ____
