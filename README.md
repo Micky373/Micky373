@@ -60,14 +60,14 @@ const getToKnowMicky = {
 - [My Github skyline](https://skyline.github.com/micky373/2021)
 ## My Certifications and Badges :arrow_down:
 
+- [Supervised machine learning certificate on coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2) 
+- [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
 - [Microverse JavaScript certificate](https://www.credential.net/d56ae1f1-88b2-4256-87a5-0ec6fe8f3bd7)
 - [Microverse React/Redux certificate](https://www.credential.net/50c50c5d-5da5-4a3a-90f2-dc61c5b84f1a)
 - [Cisco Introduction to Network badge](https://www.credly.com/badges/769bfab6-93d3-410d-a042-514bf7de5a6c/public_url)
 - [Cisco Switching Routing and Wireless Essentials badge ](https://www.credly.com/badges/9e941554-fab1-4910-8229-ab1ee8543d96/public_url)
 - [Cisco Enterprise security network automation badge](https://www.credly.com/badges/afc01cbc-05ca-4c06-9a01-fb8dcf653281/public_url) 
-- [Supervised machine learning certificate on coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2) 
-- [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
 
 ## Languages and Tools:  
 
