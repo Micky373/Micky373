@@ -66,7 +66,7 @@ const getToKnowMicky = {
 - [Cisco Introduction to Network badge](https://www.credly.com/badges/769bfab6-93d3-410d-a042-514bf7de5a6c/public_url)
 - [Cisco Switching Routing and Wireless Essentials badge ](https://www.credly.com/badges/9e941554-fab1-4910-8229-ab1ee8543d96/public_url)
 - [Cisco Enterprise security network automation badge](https://www.credly.com/badges/afc01cbc-05ca-4c06-9a01-fb8dcf653281/public_url) 
-- [Coursera Python for everybody specialization certificate ](https://coursera.org/verify/specialization/SANRMEWUPYGH) 
+- [Supervised machine learning certificate on coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2) 
 - [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
 
 ## Languages and Tools:  
