@@ -60,7 +60,8 @@ const getToKnowMicky = {
 - [My Github skyline](https://skyline.github.com/micky373/2021)
 ## My Certifications and Badges :arrow_down:
 
-- [Supervised machine learning certificate on coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2) 
+- [Supervised machine learning certificate on coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2)
+- [Advanced Learning Algorithms of machine learning on coursera](https://coursera.org/share/080827bd0be5f295ea6d846568222b76)
 - [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
 - [Microverse JavaScript certificate](https://www.credential.net/d56ae1f1-88b2-4256-87a5-0ec6fe8f3bd7)
