@@ -25,7 +25,7 @@ const getToKnowMicky = {
     },
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
-    lookingForNewOpportunities: true    
+    lookingForNewOpportunities: True    
 }
 
  ```
