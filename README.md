@@ -56,20 +56,24 @@ const getToKnowMicky = {
 [![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Micky373&theme=dracula)](https://github.com/Micky373/github-readme-activity-graph)
 
 - [My Github skyline](https://skyline.github.com/micky373/2021)
+
 ## My Certifications and Badges :arrow_down:
 
+- [Machine Learning specialization certificate from coursera](https://coursera.org/share/addb03afd18a5b9fb9819d0864e37acc)
+- [Deep Learning specialization badge from coursera](https://www.credly.com/badges/c33dee32-9c52-40d5-beb8-ae882e53e427/public_url)
+- [10Academy Machine Learning, Data Engineering and Web3 training completion with distinction certificate](https://drive.google.com/file/d/1_YGBsDF-g9k0Bvd8lzPjqpnMMtBTOXLV/view?usp=sharing)
 - [Supervised machine Learning certificate from coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2)
 - [Advanced Learning Algorithms of machine learning from coursera](https://coursera.org/share/080827bd0be5f295ea6d846568222b76)
 - [Unsupervised Machine Learning certificate from coursera](https://coursera.org/share/47b435b020b2310e7944ba1877f027a4)
-- [Machine Learning specialization certificate from coursera](https://coursera.org/share/addb03afd18a5b9fb9819d0864e37acc)
-- [10Academy Machine Learning, Data Engineering and Web3 training completion with distinction certificate](https://drive.google.com/file/d/1_YGBsDF-g9k0Bvd8lzPjqpnMMtBTOXLV/view?usp=sharing)
-- [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
+- [Neural Network and Deep Learning certificate from coursera](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
+- [Improving Deep Neural Network certificate from coursera](https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88)
+- [Structuring Machine Learning certificate from coursera](https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931)
+- [Convolutional Neural Networks certificate from coursera](https://coursera.org/share/d90faa433600d1ce2dd9fb215ead8e4f)
+- [Sequence Models certificate from coursera](https://coursera.org/share/a002bbde0c776b58191c7b5bb097de21)
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
 - [Microverse JavaScript certificate](https://www.credential.net/d56ae1f1-88b2-4256-87a5-0ec6fe8f3bd7)
 - [Microverse React/Redux certificate](https://www.credential.net/50c50c5d-5da5-4a3a-90f2-dc61c5b84f1a)
-- [Cisco Introduction to Network badge](https://www.credly.com/badges/769bfab6-93d3-410d-a042-514bf7de5a6c/public_url)
-- [Cisco Switching Routing and Wireless Essentials badge ](https://www.credly.com/badges/9e941554-fab1-4910-8229-ab1ee8543d96/public_url)
-- [Cisco Enterprise security network automation badge](https://www.credly.com/badges/afc01cbc-05ca-4c06-9a01-fb8dcf653281/public_url) 
+ 
 
 ## Languages and Tools:  
 
