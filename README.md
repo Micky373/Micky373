@@ -59,17 +59,11 @@ const getToKnowMicky = {
 
 ## My Certifications and Badges :arrow_down:
 
-- [Machine Learning specialization certificate from coursera](https://coursera.org/share/addb03afd18a5b9fb9819d0864e37acc)
-- [Deep Learning specialization badge from coursera](https://www.credly.com/badges/c33dee32-9c52-40d5-beb8-ae882e53e427/public_url)
+- [Machine Learning specialization certificate from Coursera](https://coursera.org/share/addb03afd18a5b9fb9819d0864e37acc)
+- [Deep Learning specialization badge from Coursera](https://www.credly.com/badges/c33dee32-9c52-40d5-beb8-ae882e53e427/public_url)
+- [Mathematics for Machine Learning specialization certificate from Coursera](https://coursera.org/share/e592abad9ea83ac2b553c9390eea4ca1)
 - [10Academy Machine Learning, Data Engineering and Web3 training completion with distinction certificate](https://drive.google.com/file/d/1_YGBsDF-g9k0Bvd8lzPjqpnMMtBTOXLV/view?usp=sharing)
-- [Supervised machine Learning certificate from coursera ](https://coursera.org/share/9a687fb9d7457d5a692d4abc28c75fd2)
-- [Advanced Learning Algorithms of machine learning from coursera](https://coursera.org/share/080827bd0be5f295ea6d846568222b76)
-- [Unsupervised Machine Learning certificate from coursera](https://coursera.org/share/47b435b020b2310e7944ba1877f027a4)
-- [Neural Network and Deep Learning certificate from coursera](https://coursera.org/share/f40e3cb348959778e9668bcb8a7ba0ec)
-- [Improving Deep Neural Network certificate from coursera](https://coursera.org/share/c079bccb081bce21964c1ce42d982aa2)
-- [Structuring Machine Learning Projects certificate from coursera](https://coursera.org/share/be8a30dfef24c7da3fd1f049ae1ada21)
-- [Convolutional Neural Networks certificate from coursera](https://coursera.org/share/18d7502586810730bc537b549cf52305)
-- [Sequence Models certificate from coursera](https://coursera.org/share/66ab1b219c9d562e65a5eb65438b781f)
+- [Python for Everbody specialization certificate from Coursera](https://coursera.org/share/72e631209bc7cc1b747dff697adb6ae4)
 - [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
 - [Microverse JavaScript certificate](https://www.credential.net/d56ae1f1-88b2-4256-87a5-0ec6fe8f3bd7)
 - [Microverse React/Redux certificate](https://www.credential.net/50c50c5d-5da5-4a3a-90f2-dc61c5b84f1a)
