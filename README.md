@@ -53,8 +53,6 @@ const getToKnowMicky = {
 
 ![GitHub metrics](https://metrics.lecoq.io/Micky373)
 
-[![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Micky373&theme=dracula)](https://github.com/Micky373/github-readme-activity-graph)
-
 - [My Github skyline](https://skyline.github.com/micky373/2021)
 
 ## My Certifications and Badges :arrow_down:
