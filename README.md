@@ -53,7 +53,7 @@ const getToKnowMicky = {
 
 ![GitHub metrics](https://metrics.lecoq.io/Micky373)
 
-- [My Github skyline](https://skyline.github.com/micky373/2021)
+- [My Github skyline](https://skyline.github.com/micky373/2022)
 
 ## My Certifications and Badges :arrow_down:
 
