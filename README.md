@@ -42,11 +42,11 @@ const getToKnowMicky = {
 
 ![Micky's trophy](https://github-profile-trophy.vercel.app/?username=Micky373&theme=nord&column=7&margin-w=10&margin-h=15)
 
-### 📝 My Latest Blog Post in Medium
+<!-- ### 📝 My Latest Blog Post in Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2" alt="Recent Article 2"></a> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2" alt="Recent Article 2"></a> <br> -->
 
 ## GitHub Metrics
 
