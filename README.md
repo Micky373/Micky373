@@ -18,7 +18,6 @@ const getToKnowMicky = {
     hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
     techLanguages:["Python","Css","JavaScript","HTML","SQL"],
     age: 25,
-    isWorkingNow: False,
     educationLevel: {
         bachlorsDegree: "Electromechanical Engineering",
         isCompleted: true,
