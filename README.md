@@ -10,21 +10,25 @@
 
 <br>
 
-``` JavaScript
-const getToKnowMicky = {
-    fullName: "Michael Tamirie Andualem",
-    origin: "Ethiopia 🇪🇹",
-    maritalStatus: "Single",
-    hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
-    techLanguages:["Python","Css","JavaScript","HTML","SQL"],
-    age: 25,
-    educationLevel: {
-        bachlorsDegree: "Electromechanical Engineering",
-        isCompleted: true,
+``` Python
+get_to_know_micky = {
+    "full_name": "Michael Tamirie Andualem",
+    "origin": "Ethiopia 🇪🇹",
+    "marital_status": "Single",
+    "hobbies": ["Coding", "Reading", "Watching football", "Playing football games", "Solving puzzles"],
+    "tech_languages": ["Python", "CSS", "JavaScript", "HTML", "SQL"],
+    "age": 25,
+    "education_level": {
+        "bachelors_degree": "Electromechanical Engineering",
+        "is_completed": True
     },
-    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
-    codingEnviroment: "Github",
-    lookingForNewOpportunities: True    
+    "social_medias": ["LinkedIn", "Telegram", "WhatsApp", "Twitter"],
+    "coding_environment": {
+        "ide": "Visual Studio Code",
+        "preferred_tools": ["Git", "Docker"],
+        "familiar_libraries": ["NumPy", "Pandas"]
+    },
+    "looking_for_new_opportunities": True    
 }
 
  ```
