@@ -39,8 +39,6 @@ get_to_know_micky = {
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
-
 <br />
 <br />
 
@@ -56,7 +54,6 @@ get_to_know_micky = {
 
 ![GitHub metrics](https://metrics.lecoq.io/Micky373)
 
-- [My Github skyline](https://skyline.github.com/micky373/2022)
 
 ## My Certifications and Badges :arrow_down:
 
