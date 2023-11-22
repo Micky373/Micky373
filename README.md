@@ -50,11 +50,6 @@ get_to_know_micky = {
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/2" alt="Recent Article 2"></a> <br> -->
 
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/Micky373)
-
-
 ## My Certifications and Badges :arrow_down:
 
 - [Machine Learning specialization certificate from Coursera](https://coursera.org/share/addb03afd18a5b9fb9819d0864e37acc)
