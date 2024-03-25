@@ -17,7 +17,7 @@ get_to_know_micky = {
     "marital_status": "Single",
     "hobbies": ["Coding", "Reading", "Watching football", "Playing football games", "Solving puzzles"],
     "tech_languages": ["Python", "CSS", "JavaScript", "HTML", "SQL"],
-    "age": 25,
+    "age": 26,
     "education_level": {
         "bachelors_degree": "Electromechanical Engineering",
         "is_completed": True
