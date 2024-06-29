@@ -110,6 +110,9 @@ ____
 <a href="https://medium.com/@michaeltamirie"><img src="https://img.shields.io/badge/-Medium-%11111?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
 <p align = "center"><a href="https://github.com/Micky373">
 <a href="https://www.youtube.com/channel/UCs-Hs4jmvzfyKyN8Km3d6Hw"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://t.me/StillGunner" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo"  />
+  </a>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Micky373?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a></p>
 </p>
 
