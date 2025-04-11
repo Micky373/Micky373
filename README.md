@@ -17,16 +17,16 @@ get_to_know_micky = {
     "marital_status": "Single",
     "hobbies": ["Coding", "Reading", "Watching football", "Playing football games", "Solving puzzles"],
     "tech_languages": ["Python", "CSS", "JavaScript", "HTML", "SQL"],
-    "age": 26,
+    "age": 27,
     "education_level": {
         "bachelors_degree": "Electromechanical Engineering",
         "is_completed": True
     },
     "social_medias": ["LinkedIn", "Telegram", "WhatsApp", "Twitter"],
     "coding_environment": {
-        "ide": "Visual Studio Code",
+        "ide": ["Visual Studio Code", "PyCharm", "Cursor"]
         "preferred_tools": ["Git", "Docker"],
-        "familiar_libraries": ["NumPy", "Pandas"]
+        "familiar_libraries": ["NumPy", "Pandas", "Data Science related multiple libraries"]
     },
     "looking_for_new_opportunities": True    
 }
