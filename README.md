@@ -35,13 +35,6 @@ get_to_know_micky = {
  
  ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
-
-<br />
-<br />
-
 ![Micky's trophy](https://github-profile-trophy.vercel.app/?username=Micky373&theme=nord&column=7&margin-w=10&margin-h=15)
 
 <!-- ### 📝 My Latest Blog Post in Medium
