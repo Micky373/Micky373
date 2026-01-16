@@ -35,8 +35,6 @@ get_to_know_micky = {
  
  ## My Stats
 
-![Micky's trophy](https://github-profile-trophy.vercel.app/?username=Micky373&theme=nord&column=7&margin-w=10&margin-h=15)
-
 <!-- ### 📝 My Latest Blog Post in Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michaeltamirie/0" alt="Recent Article 0"></a>
