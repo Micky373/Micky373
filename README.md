@@ -50,8 +50,6 @@ get_to_know_micky = {
 - [Microverse JavaScript certificate](https://www.credential.net/d56ae1f1-88b2-4256-87a5-0ec6fe8f3bd7)
 - [Microverse React/Redux certificate](https://www.credential.net/50c50c5d-5da5-4a3a-90f2-dc61c5b84f1a)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Micky373)](https://git.io/streak-stats)
-
 ## Languages and Tools:  
 
 <p align="left"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
